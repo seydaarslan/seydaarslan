@@ -1,6 +1,6 @@
 - ⭐ Hi, I’m @seydaarslan
 - 🎮 I’m interested in making games with Unity and Unreal Engine
-- 🌱 I’m currently learning Unreal Engine 5
+- 🌱 I’m currently learning Python
 - 📫 How to reach me : seyda.arslan@outlook.com.tr
 
 
