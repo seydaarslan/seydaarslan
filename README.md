@@ -1,12 +1,32 @@
-<h3 align="center">⭐ Hi, I’m @seydaarslan<br>🎮 I’m interested in making games with Unity<br>🌱 I’m currently learning Python<br>📫 How to reach me : seyda.arslan@outlook.com.tr</h3>
+###
+
+<h1 align="center">・✦  Hi, I'm @seydaarslan  ✦・</h1>
+
+###
+
+<h3 align="center">👾 I’m interested in making games with Unity<br>✨ I’m currently learning Python<br>🔮 How to reach me : seyda.arslan@outlook.com.tr</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seydaarslan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=seydaarslan&locale=en&mode=daily&theme=jolly&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seydaarslan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=jolly&hide_border=true" height="150" alt="languages graph"  />
+  <img height="100" src="https://i.imgur.com/WY7wD4V.gif"  />
 </div>
+
+###
+
+<h3 align="center">STATS</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seydaarslan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=seydaarslan&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seydaarslan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">LANGUAGE & TECH</h3>
 
 ###
 
@@ -27,6 +47,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
+
+###
+
+<h3 align="center">SOCIALS</h3>
 
 ###
 
