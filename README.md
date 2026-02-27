@@ -8,12 +8,6 @@
 
 ###
 
-<div align="center">
-  <img height="100" src="https://i.imgur.com/WY7wD4V.gif"  />
-</div>
-
-###
-
 <h3 align="center">STATS</h3>
 
 ###
