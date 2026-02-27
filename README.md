@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">👾 I’m interested in making games with Unity<br>✨ I’m currently learning Python<br>🔮 How to reach me : seyda.arslan@outlook.com.tr</h3>
+<h3 align="center">👾 I’m interested in machine learning and making games with Unity<br>🔮 How to reach me : seyda.arslan@outlook.com.tr</h3>
 
 ###
 
