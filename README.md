@@ -8,10 +8,6 @@
 
 ###
 
-<h3 align="center">STATS</h3>
-
-###
-
 <h3 align="center">LANGUAGE & TECH</h3>
 
 ###
